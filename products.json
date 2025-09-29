@@ -1,12 +1,12 @@
 [
   {
-    "id": "m-shoe-1",
+    "id": "w-shoe-1",
     "name": "Women's Casual Shooes",
     "company": "Crocks",
     "price": 1299,
     "colors": ["#000000", "#FFFFFF", "#2F4F4F"],
-    "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
-    "description": "Comfortable cotton casual shirt, perfect for daily wear.",
+    "image": "https://github.com/AbhishekID01/products.json/blob/main/Images/GreenCrocks.png",
+    "description": "Comfortable cotton casual shoes, perfect for daily wear.",
     "category": "shirt",
     "gender": "male",
     "featured": true
@@ -23,19 +23,19 @@
     "gender": "male"
   },
   {
-    "id": "m-pant-1",
-    "name": "Men's Denim Jeans",
+    "id": "m-Socse-1",
+    "name": "Men's Denim Socse",
     "company": "Levi's",
     "price": 2499,
     "colors": ["#1E90FF", "#000000"],
-    "image": "https://images.pexels.com/photos/298863/pexels-photo-428338.jpeg",
-    "description": "Classic fit denim jeans, durable and stylish.",
+    "image": "https://github.com/AbhishekID01/products.json/blob/main/Images/Socs.png",
+    "description": "Classic fit denim, durable and stylish.",
     "category": "pants",
     "gender": "male",
     "featured": true
   },
   {
-    "id": "m-pant-2",
+    "id": "m-pant-1",
     "name": "Men's Chinos",
     "company": "Jack & Jones",
     "price": 1899,
@@ -46,19 +46,19 @@
     "gender": "male"
   },
   {
-    "id": "m-shoe-2",
-    "name": "Men's Running Shoes",
+    "id": "w-shirt-1",
+    "name": "RETROCHIC TIE DYE PRINT T-SHIRT",
     "company": "Nike",
     "price": 4599,
     "colors": ["#000000", "#FFFFFF", "#FF0000"],
-    "image": "https://images.pexels.com/photos/267202/pexels-photo-267202.jpeg",
+    "image": "https://github.com/AbhishekID01/products.json/blob/main/Images/GreenGirl.png",
     "description": "Lightweight running shoes with cushioned soles for comfort.",
-    "category": "shoes",
-    "gender": "male",
+    "category": "shirt",
+    "gender": "female",
     "featured": true
   },
   {
-    "id": "m-shoe-2",
+    "id": "m-shoe-1",
     "name": "Men's Leather Boots",
     "company": "Woodland",
     "price": 5499,
@@ -124,14 +124,14 @@
     "gender": "female"
   },
   {
-    "id": "f-shoe-2",
-    "name": "Women's Sneakers",
+    "id": "w-shirt-2",
+    "name": "WOMENS TANK CROP TOP",
     "company": "Adidas",
     "price": 3499,
     "colors": ["#FFFFFF", "#000000", "#FF69B4"],
-    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "image": "https://github.com/AbhishekID01/products.json/blob/main/Images/GirlBelow.png",
     "description": "Trendy sneakers for casual outings and daily wear.",
-    "category": "shoes",
+    "category": "shirt",
     "gender": "female",
     "featured": true
   },
