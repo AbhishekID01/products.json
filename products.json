@@ -1,8 +1,8 @@
 [
   {
-    "id": "m-shirt-1",
-    "name": "Men's Casual Shirt",
-    "company": "H&M",
+    "id": "m-shoe-1",
+    "name": "Women's Casual Shooes",
+    "company": "Crocks",
     "price": 1299,
     "colors": ["#000000", "#FFFFFF", "#2F4F4F"],
     "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
@@ -12,7 +12,7 @@
     "featured": true
   },
   {
-    "id": "m-shirt-2",
+    "id": "m-shirt-1",
     "name": "Men's Formal Shirt",
     "company": "Van Heusen",
     "price": 1999,
@@ -46,7 +46,7 @@
     "gender": "male"
   },
   {
-    "id": "m-shoe-1",
+    "id": "m-shoe-2",
     "name": "Men's Running Shoes",
     "company": "Nike",
     "price": 4599,
