@@ -13,25 +13,25 @@
   },
   {
     "id": "m-shirt-1",
-    "name": "Men's Formal Shirt",
+    "name": "Men's Casual Shirt",
     "company": "Van Heusen",
     "price": 1999,
     "colors": ["#0000FF", "#808080"],
-    "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg",
+    "image": "https://plus.unsplash.com/premium_photo-1683140431958-31505d0fd1ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVucyUyMHNoaXJ0fGVufDB8fDB8fHww",
     "description": "Slim-fit formal shirt made of breathable fabric.",
     "category": "shirt",
     "gender": "male"
   },
   {
     "id": "m-Socse-1",
-    "name": "Men's Denim Socse",
+    "name": "Women's Denim Socse",
     "company": "Levi's",
     "price": 2499,
     "colors": ["#1E90FF", "#000000"],
     "image": "https://raw.githubusercontent.com/AbhishekID01/products.json/main/Images/Socs.png",
     "description": "Classic fit denim, durable and stylish.",
     "category": "pants",
-    "gender": "male",
+    "gender": "female",
     "featured": true
   },
   {
@@ -40,7 +40,7 @@
     "company": "Jack & Jones",
     "price": 1899,
     "colors": ["#D2B48C", "#000000"],
-    "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg",
+    "image": "https://images.unsplash.com/photo-1758796305217-d987b122b44b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWVuJ3MlMjBDaGlub3N8ZW58MHx8MHx8fDA%3D",
     "description": "Slim-fit chinos perfect for both formal and casual wear.",
     "category": "pants",
     "gender": "male"
@@ -63,7 +63,7 @@
     "company": "Woodland",
     "price": 5499,
     "colors": ["#654321", "#000000"],
-    "image": "https://images.pexels.com/photos/1394882/pexels-photo-1394882.jpeg",
+    "image": "https://images.unsplash.com/photo-1605733160314-4fc7dac4bb16?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVhdGhlciUyMHNob2VzfGVufDB8fDB8fHww",
     "description": "Premium leather boots, durable and stylish for outdoor use.",
     "category": "shoes",
     "gender": "male"
@@ -74,18 +74,18 @@
     "company": "Zara",
     "price": 999,
     "colors": ["#FF69B4", "#FFFFFF"],
-    "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    "image": "https://plus.unsplash.com/premium_photo-1664874602602-4b097e7cb824?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3JvcCUyMHRvcHxlbnwwfHwwfHx8MA%3D%3D",
     "description": "Trendy crop top perfect for casual outings.",
     "category": "shirt",
     "gender": "female"
   },
   {
     "id": "f-shirt-2",
-    "name": "Women's Formal Blouse",
+    "name": "Women's Cargo",
     "company": "Mango",
     "price": 1599,
     "colors": ["#FFD700", "#000000"],
-    "image": "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg",
+    "image": "https://images.unsplash.com/photo-1744063687794-b79f7a2718c9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcmdvJTIwcGFudHN8ZW58MHx8MHx8fDA%3D",
     "description": "Elegant blouse for office and formal events.",
     "category": "shirt",
     "gender": "female"
@@ -96,7 +96,7 @@
     "company": "Levi's",
     "price": 2299,
     "colors": ["#000000", "#1E90FF"],
-    "image": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg",
+    "image": "https://images.unsplash.com/photo-1738618806206-b2cb6331193c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFdvbWVuJ3MlMjBTa2lubnklMjBKZWFuc3xlbnwwfHwwfHx8MA%3D%3D",
     "description": "High-waist skinny jeans with a stylish fit.",
     "category": "pants",
     "gender": "female"
@@ -107,7 +107,7 @@
     "company": "H&M",
     "price": 1499,
     "colors": ["#FFFFFF", "#D2691E"],
-    "image": "https://images.pexels.com/photos/46208/pexels-photo-46208.jpeg",
+    "image": "https://images.unsplash.com/photo-1758457077975-1073493b5744?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V29tZW4ncyUyMFBhbGF6em8lMjBQYW50c3xlbnwwfHwwfHx8MA%3D%3D",
     "description": "Comfortable and flowy palazzo pants, perfect for summer.",
     "category": "pants",
     "gender": "female"
@@ -118,7 +118,7 @@
     "company": "Aldo",
     "price": 2999,
     "colors": ["#FF1493", "#000000"],
-    "image": "https://images.pexels.com/photos/134064/pexels-photo-134064.jpeg",
+    "image": "https://images.unsplash.com/photo-1605733513549-de9b150bd70d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhlZWxzfGVufDB8fDB8fHww",
     "description": "Stylish heels for party and formal occasions.",
     "category": "shoes",
     "gender": "female"
@@ -137,36 +137,36 @@
   },
   {
     "id": "m-jacket-1",
-    "name": "Men's Leather Jacket",
+    "name": " Leather Jacket",
     "company": "Zara",
     "price": 7999,
     "colors": ["#000000", "#654321"],
-    "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
+    "image": "https://plus.unsplash.com/premium_photo-1664875849419-3dc59ec24433?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TWVuJ3MlMjBMZWF0aGVyJTIwSmFja2V0fGVufDB8fDB8fHww",
     "description": "Classic biker leather jacket, durable and stylish.",
     "category": "jacket",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "id": "f-jacket-1",
-    "name": "Women's Denim Jacket",
+    "name": " Denim Jacket",
     "company": "H&M",
     "price": 2999,
     "colors": ["#1E90FF", "#000000"],
-    "image": "https://images.pexels.com/photos/1002644/pexels-photo-1002644.jpeg",
+    "image": "https://plus.unsplash.com/premium_photo-1698260794980-4899be3225ea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V29tZW4ncyUyMERlbmltJTIwSmFja2V0fGVufDB8fDB8fHwwg",
     "description": "Trendy cropped denim jacket for casual wear.",
     "category": "jacket",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "id": "m-tshirt-1",
-    "name": "Men's Graphic T-shirt",
+    "name": "Graphic T-shirt",
     "company": "Adidas",
     "price": 899,
     "colors": ["#000000", "#FFFFFF"],
-    "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
+    "image": "https://images.unsplash.com/photo-1755018097060-682f291aad30?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8R3JhcGhpYyUyMFQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D",
     "description": "Comfortable cotton t-shirt with stylish print.",
     "category": "tshirt",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "id": "f-tshirt-1",
@@ -174,7 +174,7 @@
     "company": "Forever 21",
     "price": 799,
     "colors": ["#FFB6C1", "#FFFFFF"],
-    "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    "image": "https://images.unsplash.com/photo-1632568850499-513c7f887cc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8V29tZW4ncyUyMFYlMjBuZWNrJTIwVGVlfGVufDB8fDB8fHww",
     "description": "Soft cotton v-neck t-shirt for everyday wear.",
     "category": "tshirt",
     "gender": "female"
@@ -185,7 +185,7 @@
     "company": "Tommy Hilfiger",
     "price": 2599,
     "colors": ["#8B0000", "#000000"],
-    "image": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg",
+    "image": "https://images.unsplash.com/photo-1651761629162-088a35c2378e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TWVuJ3MlMjBXaW50ZXIlMjBTd2VhdGVyfGVufDB8fDB8fHww",
     "description": "Warm woolen sweater with classic design.",
     "category": "sweater",
     "gender": "male"
@@ -196,7 +196,7 @@
     "company": "Zara",
     "price": 2399,
     "colors": ["#FFDAB9", "#A52A2A"],
-    "image": "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg",
+    "image": "https://images.unsplash.com/photo-1687275159654-13e292177bfc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V29tZW4ncyUyMFdvb2wlMjBTd2VhdGVyfGVufDB8fDB8fHww",
     "description": "Stylish and cozy wool sweater, perfect for winter.",
     "category": "sweater",
     "gender": "female"
