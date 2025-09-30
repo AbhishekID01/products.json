@@ -8,7 +8,7 @@
     "image": "https://raw.githubusercontent.com/AbhishekID01/products.json/main/Images/GreenCrocks.png",
     "description": "Comfortable cotton casual shoes, perfect for daily wear.",
     "category": "shirt",
-    "gender": "male",
+    "gender": "Male",
     "featured": true
   },
   {
@@ -20,7 +20,7 @@
     "image": "https://plus.unsplash.com/premium_photo-1683140431958-31505d0fd1ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVucyUyMHNoaXJ0fGVufDB8fDB8fHww",
     "description": "Slim-fit formal shirt made of breathable fabric.",
     "category": "shirt",
-    "gender": "male"
+    "gender": "Male"
   },
   {
     "id": "m-Socse-1",
@@ -31,7 +31,7 @@
     "image": "https://raw.githubusercontent.com/AbhishekID01/products.json/main/Images/Socs.png",
     "description": "Classic fit denim, durable and stylish.",
     "category": "pants",
-    "gender": "female",
+    "gender": "Female",
     "featured": true
   },
   {
@@ -43,7 +43,7 @@
     "image": "https://images.unsplash.com/photo-1758796305217-d987b122b44b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWVuJ3MlMjBDaGlub3N8ZW58MHx8MHx8fDA%3D",
     "description": "Slim-fit chinos perfect for both formal and casual wear.",
     "category": "pants",
-    "gender": "male"
+    "gender": "Male"
   },
   {
     "id": "w-shirt-1",
@@ -54,7 +54,7 @@
     "image": "https://raw.githubusercontent.com/AbhishekID01/products.json/main/Images/GreenGirl.png",
     "description": "Lightweight running shoes with cushioned soles for comfort.",
     "category": "shirt",
-    "gender": "female",
+    "gender": "Female",
     "featured": true
   },
   {
@@ -66,7 +66,7 @@
     "image": "https://images.unsplash.com/photo-1605733160314-4fc7dac4bb16?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVhdGhlciUyMHNob2VzfGVufDB8fDB8fHww",
     "description": "Premium leather boots, durable and stylish for outdoor use.",
     "category": "shoes",
-    "gender": "male"
+    "gender": "Male"
   },
   {
     "id": "f-shirt-1",
@@ -77,7 +77,7 @@
     "image": "https://plus.unsplash.com/premium_photo-1664874602602-4b097e7cb824?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3JvcCUyMHRvcHxlbnwwfHwwfHx8MA%3D%3D",
     "description": "Trendy crop top perfect for casual outings.",
     "category": "shirt",
-    "gender": "female"
+    "gender": "Female"
   },
   {
     "id": "f-shirt-2",
@@ -88,7 +88,7 @@
     "image": "https://images.unsplash.com/photo-1744063687794-b79f7a2718c9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcmdvJTIwcGFudHN8ZW58MHx8MHx8fDA%3D",
     "description": "Elegant blouse for office and formal events.",
     "category": "shirt",
-    "gender": "female"
+    "gender": "Female"
   },
   {
     "id": "f-pant-1",
@@ -99,7 +99,7 @@
     "image": "https://images.unsplash.com/photo-1738618806206-b2cb6331193c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFdvbWVuJ3MlMjBTa2lubnklMjBKZWFuc3xlbnwwfHwwfHx8MA%3D%3D",
     "description": "High-waist skinny jeans with a stylish fit.",
     "category": "pants",
-    "gender": "female"
+    "gender": "Female"
   },
   {
     "id": "f-pant-2",
@@ -110,7 +110,7 @@
     "image": "https://images.unsplash.com/photo-1758457077975-1073493b5744?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V29tZW4ncyUyMFBhbGF6em8lMjBQYW50c3xlbnwwfHwwfHx8MA%3D%3D",
     "description": "Comfortable and flowy palazzo pants, perfect for summer.",
     "category": "pants",
-    "gender": "female"
+    "gender": "Female"
   },
   {
     "id": "f-shoe-1",
@@ -121,7 +121,7 @@
     "image": "https://images.unsplash.com/photo-1605733513549-de9b150bd70d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhlZWxzfGVufDB8fDB8fHww",
     "description": "Stylish heels for party and formal occasions.",
     "category": "shoes",
-    "gender": "female"
+    "gender": "Female"
   },
   {
     "id": "w-shirt-2",
@@ -132,7 +132,7 @@
     "image": "https://raw.githubusercontent.com/AbhishekID01/products.json/main/Images/GirlBelow.png",
     "description": "Trendy sneakers for casual outings and daily wear.",
     "category": "shirt",
-    "gender": "female",
+    "gender": "Female",
     "featured": true
   },
   {
@@ -177,7 +177,7 @@
     "image": "https://images.unsplash.com/photo-1632568850499-513c7f887cc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8V29tZW4ncyUyMFYlMjBuZWNrJTIwVGVlfGVufDB8fDB8fHww",
     "description": "Soft cotton v-neck t-shirt for everyday wear.",
     "category": "tshirt",
-    "gender": "female"
+    "gender": "Female"
   },
   {
     "id": "m-sweater-1",
@@ -188,7 +188,7 @@
     "image": "https://images.unsplash.com/photo-1651761629162-088a35c2378e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TWVuJ3MlMjBXaW50ZXIlMjBTd2VhdGVyfGVufDB8fDB8fHww",
     "description": "Warm woolen sweater with classic design.",
     "category": "sweater",
-    "gender": "male"
+    "gender": "Male"
   },
   {
     "id": "f-sweater-1",
@@ -199,6 +199,6 @@
     "image": "https://images.unsplash.com/photo-1687275159654-13e292177bfc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V29tZW4ncyUyMFdvb2wlMjBTd2VhdGVyfGVufDB8fDB8fHww",
     "description": "Stylish and cozy wool sweater, perfect for winter.",
     "category": "sweater",
-    "gender": "female"
+    "gender": "Female"
   }
 ]
